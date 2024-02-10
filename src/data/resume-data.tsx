@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   location: "Managua, Nicaragua",
   locationLink: "https://www.google.com/maps/place/Managua",
   about:
-    "Desarrollador Web con una pasión por el desarrollo web, destacándome como autodidacta.",
+    "Desarrollador Web",
   summary:
     "Estudiante de Ingeniería de Sistemas con una pasión por el desarrollo web, destacándome como autodidacta. Poseo experiencia en una variedad de lenguajes de programación, incluyendo JavaScript, TypeScript, Python y SQL. Mi enfoque se centra en el desarrollo web, y tengo un conocimiento sólido en el uso de frameworks Frontend como ReactJS y NextJS para la creación de interfaces gráficas.",
   avatarUrl:
